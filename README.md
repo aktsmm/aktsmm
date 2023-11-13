@@ -1,3 +1,6 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aktsmm&theme=2077)
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...Microsft as a Cloud Solution Architect
