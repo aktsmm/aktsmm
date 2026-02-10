@@ -98,13 +98,6 @@ ext install yamapan.copilot-browser-bridge-vscode
 | [D365 UPDATE MCP](https://marketplace.visualstudio.com/items?itemName=yamapan.d365-update) | Search Dynamics 365 update info from GitHub Docs via Copilot Chat |
 | [PowerPlat UPDATE MCP](https://marketplace.visualstudio.com/items?itemName=yamapan.powerplat-update) | Search Power Platform update info from GitHub Docs via Copilot Chat |
 
----
-
-### 💖 Sponsor
-
-If you find my extensions useful, consider supporting my work!
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/aktsmm)
 
 <!--
 **aktsmm/aktsmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
