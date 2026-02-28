@@ -11,7 +11,6 @@
 - 🔭 I'm currently working on ...Microsoft as a Cloud Solution Architect
 - 🌱 I'm currently learning ... Azure infrastructure.
 - 👯 I'm looking to collaborate on ...PS Customer.
-- 📫 How to reach me: ...https://lit.link/aktsmm
 - 😄 Language: ...English or Japanese
 - ⚡ Fun fact: ...Mahjong, motorbike, Azure
 
